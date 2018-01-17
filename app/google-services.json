@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771672368186",
+    "firebase_url": "https://maplearnfull.firebaseio.com",
+    "project_id": "maplearnfull",
+    "storage_bucket": "maplearnfull.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771672368186:android:3eed29e0a24a8d39",
+        "android_client_info": {
+          "package_name": "com.example.mahbub.googlemaplearnfull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771672368186-hqk9m01jobgba3eqd7vmshb841gol0p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahbub.googlemaplearnfull",
+            "certificate_hash": "8beac397048166f60750532c3768e44ea0a7a333"
+          }
+        },
+        {
+          "client_id": "771672368186-9l9jkkie607cgr6aiq1tpbk10f9f1gei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAchlys28kmHGSyNetafgwlBgb6wgmqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771672368186-9l9jkkie607cgr6aiq1tpbk10f9f1gei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

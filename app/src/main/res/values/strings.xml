@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapLearnFull</string>
+    <string name="google_maps_API_Key">AIzaSyC70uN5OoCAFeW0KQ_DV28eKswmtQLd7RE</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_add_alarm">Add Alarm</string>
+    <string name="channel_name">test</string>
+</resources>
